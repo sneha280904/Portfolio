@@ -37,14 +37,6 @@ This repository contains the source code for a personal portfolio website design
 
 3. Open the `index.html` file in your web browser.
 
-## Customization
-
-You can personalize this portfolio by:
-
-- Updating the content in `index.html` to reflect your details
-- Replacing project links with your own GitHub repositories
-- Modifying colors and fonts in the CSS file to match your preferences
-
 ## Purpose
 
 The goal of this project is to build an online presence, demonstrate web development skills, and provide a central place for showcasing personal and academic projects.
