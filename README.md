@@ -13,22 +13,7 @@ PortfolioSpace is a personal portfolio website designed to present my work, skil
 - **Modern Design**: A sleek, user-friendly interface with smooth animations.
 
 ## Technologies Used 💻
-- HTML, CSS, JavaScript
-- Front-end: React.js / Vue.js (Optional, if needed)
-- Animations: AOS (Animate On Scroll) for smooth effects
+- HTML 
+- CSS 
+- JavaScript 
 
-## Getting Started 🚀
-Clone the repository:
-```
-git clone https://github.com/yourusername/PortfolioSpace.git
-```
-Install dependencies:
-```
-npm install
-```
-Start the application:
-```
-npm start
-```
-
----
